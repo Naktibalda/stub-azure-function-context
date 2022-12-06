@@ -1,6 +1,6 @@
 {
   "name": "@naktibalda/stub-azure-function-context",
-  "version": "2.0.0-alpha.7",
+  "version": "3.0.0",
   "description": "Unmaintained fork of stub-azure-function-context",
   "main": "dist/index.js",
   "directories": {
