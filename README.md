@@ -1,3 +1,8 @@
+# @naktibalda/stub-azure-function-context
+
+This is an unmaintained fork of stub-azure-function-context library.
+I used it to self-publish 3.0.0 because I couldn't wait for release any longer.
+
 # stub-azure-function-context
 
 Aims to implement the context object as described on the [Azure Functions JavaScript Developer Guide](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-node#context-object)

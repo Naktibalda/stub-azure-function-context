@@ -1,7 +1,7 @@
 {
-  "name": "stub-azure-function-context",
+  "name": "@naktibalda/stub-azure-function-context",
   "version": "2.0.0-alpha.7",
-  "description": "Provides an object similar to Function Runtime's context for use in unit testing",
+  "description": "Unmaintained fork of stub-azure-function-context",
   "main": "dist/index.js",
   "directories": {
     "test": "test"
